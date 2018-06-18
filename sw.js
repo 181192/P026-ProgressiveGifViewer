@@ -1,5 +1,5 @@
 // SW version
-const version = '1.0';
+const version = '1.1';
 
 const appAssets = [
   'index.html',
